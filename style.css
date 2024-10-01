@@ -1,0 +1,80 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.canvas {
+    margin: 100px auto;
+    width: 80%;
+    text-align: center;
+}
+
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: white;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}
+
+
+.contact {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    text-align: right;
+}
+
+.contact a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: inline-flex;
+    align-items: center;
+}
+
+.contact img {
+    width: 30px;
+    margin-right: 8px;
+    background-color: inherit;
+}
+
+
+nav {
+    position: fixed;
+    left: 20px;
+    top: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+nav img {
+    width: 30px;
+    vertical-align: middle;
+    background-color: inherit;
+    border-radius: 50%;
+}
