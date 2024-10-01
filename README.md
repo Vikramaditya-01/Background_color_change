@@ -49,14 +49,6 @@ To run this project on your local machine, follow these steps:
 4. Use the social media links in the top-left corner to navigate to LinkedIn, Twitter, or GitHub.
 5. Use the email link in the bottom-right corner to contact the project owner.
 
-## Screenshot
-
-![Screenshot of the Background Color Changer](screenshot.png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or collaboration, feel free to reach out:
